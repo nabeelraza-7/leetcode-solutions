@@ -19,6 +19,7 @@ class Solution {
     //         if (strs[i].length() < minLength){
     //             minLength = strs[i].length();
     //         }
+    //
     //     }
     //     for (int i = 0; i < minLength; i++) {
     //         char current = strs[0].charAt(i);
